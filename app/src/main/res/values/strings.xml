@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Selfiesh</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_details_header">Details:</string>
+    <string name="image_preview_header">Preview:</string>
+    <string name="loading_message">Uploading picture.. Please wait.</string>
+
+    <string name="dialog_select_prompt">Choose a picture</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Gallery</string>
+    <string name="information">Press the red floating button below to add a photo.</string>
+    <string name="image_picker_error">Resimde bir sorun var. Lütfen başka bir resim seçin.</string>
+    <string name="library_txt">.</string>
+    <string name="main_txt">Identify fish from picture</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Test id = 123 </string>
+    <string name="prompt_password">Test Password= h</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Legal">HUNTING IS AVAILABLE IN THIS TERM</string>
+    <string name="notLegal">HUNTING IS NOT AVAILABLE IN THIS TERM!!!!!</string>
+</resources>
