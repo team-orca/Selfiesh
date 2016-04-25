@@ -1,6 +1,6 @@
 # Selfiesh
 - SelFiesh is an android application that offers a solution to 2016 Fishackathon 1st Problem.
-- You can find the problems in -2016 Fishackathon Final Problem Statements.pdf
+- You can find the problems in Presentation/2016 Fishackathon Final Problem Statements.pdf
 
 - We have tested our application in Android API 22 & v 5.1.1 and it works perfectly without any errors.
 
