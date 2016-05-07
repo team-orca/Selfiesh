@@ -56,7 +56,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String CLOUD_VISION_API_KEY = "AIzaSyDJS30xCOXRUpuARGrdsU7e1J3xMkkSGsA";
+    private static final String CLOUD_VISION_API_KEY = "AIzaSyCeIyDQvsfi1q9RlMHaIbBcuBVowB299cE";
     public static final String FILE_NAME = "temp.jpg";
 
     private static final String TAG = MainActivity.class.getSimpleName();
